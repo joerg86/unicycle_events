@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'registration',
     'import_export',
     'graphene_django',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
